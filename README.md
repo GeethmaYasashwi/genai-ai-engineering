@@ -14,6 +14,6 @@ I am actively studying GenAI bootcamp content and have built hands-on work in:
 ## What’s included
 
 - `level-1-llms/`: transformers basics, API integration, foundational LLM experiments
-- `prompt-engineering/`: prompt templates, role prompting, chain-of-thought, guardrails
+- `prompt-engineering/`: prompt templates, role prompting, chain-of-thought, guardrails, prompt-optimizer
 - `rag-systems/`: retrieval pipelines, contextual search, document Q&A
 - `agent-systems/`: agent workflows, memory examples, tool-calling demos
